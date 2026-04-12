@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Reno (Metro), Nevada metro region, encompassing Reno. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Reno (Metro), Nevada, US",
+  "export_job_id": "0eed5b53-c664-443a-9469-982849a8374a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 415341,
+  "location_name": "Reno, NV",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-reno-metro-nevada-us-sample-415341",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/415341/beamstation_415341_restaurants-us-renonv_SAMPLE_DIST.csv",
+  "sample_pct": 3.23,
+  "sample_records": 25,
+  "sample_sha256": "7968e548965a266505b17cb24bde33e95e61dc57892622a8ba5ea4bb74d08f5c",
+  "sample_size_bytes": 115277,
+  "total_records": 775,
+  "updated_at": "2026-03-31T16:13:27.432856+00:00"
+}
