@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0eed5b53-c664-443a-9469-982849a8374a",
+  "export_job_id": "9cdbc5a1-2804-4764-a56d-b232bfc4cbbf",
   "id_short": 415341,
-  "published_at": "2026-04-12T19:05:50Z",
+  "published_at": "2026-04-17T19:27:43Z",
   "repo_name": "all-restaurants-in-reno-metro-nevada-us-sample-415341",
   "sample_asset_name": "beamstation_415341_restaurants-us-renonv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/415341/beamstation_415341_restaurants-us-renonv_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "7968e548965a266505b17cb24bde33e95e61dc57892622a8ba5ea4bb74d08f5c",
-  "sample_size_bytes": 115277,
-  "total_records": 775
+  "sample_records": 132,
+  "sample_sha256": "0ee260bfb4c3d4b304a01c3dc65801b46aa06bab42aa17ebf25a928d0225f121",
+  "sample_size_bytes": 503566,
+  "total_records": 1320
 }
